@@ -1,3 +1,4 @@
+
 This is repo is for easy and shallow learning everyday - 15 minutes is good enough.
 
 No rush, no pain, just take the time and drink the code.

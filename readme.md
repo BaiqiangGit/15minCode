@@ -29,4 +29,6 @@ Resnet from Scratch: https://towardsdatascience.com/implementing-a-resnet-model-
 Transformer from Scratch: https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51
 BERT from Scratch: https://towardsdatascience.com/how-to-train-a-bert-model-from-scratch-72cfce554fc6
 CLIP From Scratch: https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2
+DALLE from Scratch: https://github.com/lucidrains/DALLE-pytorch
+DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) https://www.youtube.com/watch?v=W-O7AZNzbzQ 
 

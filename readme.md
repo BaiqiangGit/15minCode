@@ -22,3 +22,11 @@ Baiqiang - 2021-11-29
                    Tutorial: https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2 
                    
                    
+=======            
+                   
+### Todo
+Resnet from Scratch: https://towardsdatascience.com/implementing-a-resnet-model-from-scratch-971be7193718
+Transformer from Scratch: https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51
+BERT from Scratch: https://towardsdatascience.com/how-to-train-a-bert-model-from-scratch-72cfce554fc6
+CLIP From Scratch: https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2
+
